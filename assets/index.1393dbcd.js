@@ -1,0 +1,1 @@
+import{d as e,e as a,b as n}from"./vendor.3995460f.js";const o=e({name:"VideoPage",componentName:"ManageVideoPage",setup:()=>({}),render(){const e=a("VideoPlayer");return n(e,null,null)}});export default o;
