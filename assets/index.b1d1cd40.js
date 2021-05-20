@@ -1,0 +1,1 @@
+import{U as e}from"./index.0c404f75.js";import{d as n,e as o,f as a}from"./vendor.82f1cd3f.js";const r=n({name:"ComponentPage",componentName:"ManageComponentPage",components:{UiRender:e},render:()=>o(a("ui-render"),null,null)});export default r;
