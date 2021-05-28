@@ -1,1 +1,0 @@
-import{d as e,a,f as r,e as t}from"./vendor.950edac8.js";const d=e({name:"TreePage",componentName:"ManageTreePage",setup:()=>({treeData:a([{id:1,label:"节点1",children:[{id:2,label:"节点2"},{id:3,label:"节点3"}]},{id:4,label:"节点4"}])}),render(){const e=r("Tree");return t(e,{data:this.treeData,"node-key":"id","show-checkbox":!0,single:!0},null)}});export default d;
