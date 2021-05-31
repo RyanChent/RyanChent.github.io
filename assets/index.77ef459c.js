@@ -1,0 +1,1 @@
+import{U as e,u as n}from"./index.1addde64.js";import{d as a,L as o,e as s,f as t}from"./vendor.b3f3fa7a.js";const d=a({name:"ComponentPage",componentName:"ManageComponentPage",components:{UiRender:e},setup(){const e=n();o((()=>{e.dispatch("changeCollapse",!0)}))},render:()=>s(t("ui-render"),null,null)});export default d;

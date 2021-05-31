@@ -1,0 +1,1 @@
+import{V as e}from"./index.1addde64.js";import{d as o,e as a}from"./vendor.b3f3fa7a.js";const d=o({name:"VideoPage",componentName:"VideoPage",components:{VideoPlayer:o(e)},setup:()=>({}),render:()=>a(e,null,null)});export default d;
