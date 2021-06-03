@@ -1,0 +1,1 @@
+import{J as o}from"./index.78a749ee.js";import{d as e,g as r,c as a}from"./vendor.998e70d8.js";const n=e({name:"ArrayPage",componentName:"ManageArrayPage",components:{ArrayEditor:e(o)},setup:()=>({array:r(["a",function(){console.log("c")},{d:{e:[0,2],f:{1:3}}},10,()=>{console.log("h")}])}),render(){return a(o,{json:this.array,showJson:!0},null)}});export default n;

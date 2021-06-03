@@ -1,0 +1,1 @@
+import{I as e,M as n}from"./index.78a749ee.js";import{d as o,l as a,c as s}from"./vendor.998e70d8.js";const l=o({name:"IconPage",componentName:"ManageIconPage",components:{PCIcons:o(e),MobileIcons:o(n)},setup(){const o=a("isMobile");return()=>o.value?s(n,null,null):s(e,null,null)}});export default l;
