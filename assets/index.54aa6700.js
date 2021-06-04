@@ -1,1 +1,0 @@
-import{d as e,r as a,c as r}from"./vendor.998e70d8.js";const n=e({name:"ChartsPage",componentName:"ManageChartsPage",setup:()=>({}),render(){const e=a("Echarts");return r(e,null,null)}});export default n;
