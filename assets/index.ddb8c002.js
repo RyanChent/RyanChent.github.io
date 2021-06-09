@@ -1,0 +1,1 @@
+import{U as e}from"./index.96a99a22.js";import{d as a,aj as n,c as o,u as s,r as t}from"./vendor.b85210e2.js";const r=a({name:"ComponentPage",componentName:"ManageComponentPage",components:{UiRender:e},setup(){const e=s();n((()=>{"vertical"===e.state.config.navMode&&e.dispatch("changeCollapse",!0)}))},render:()=>o(t("ui-render"),null,null)});export default r;
