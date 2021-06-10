@@ -1,0 +1,1 @@
+import{V as e}from"./index.3f4da8e3.js";import{d as o,c as n}from"./vendor.58cab911.js";const a=o({name:"VideoPage",componentName:"VideoPage",components:{VideoPlayer:o(e)},render:()=>n(e,{wideScreen:!0,webFullScreen:!0,download:!0},null)});export default a;
