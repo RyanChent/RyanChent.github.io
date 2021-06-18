@@ -1,1 +1,0 @@
-import{d as a,r as e,c as r}from"./vendor.5f125aaa.js";const t=a({name:"ChartsPage",componentName:"ManageChartsPage",setup:()=>({}),render(){const a=e("Echarts");return r(a,{domId:"vite-echarts"},null)}});export default t;
