@@ -1,1 +1,0 @@
-import{E as e}from"./index.28060186.js";import{d as t,r as n,f as o,L as a}from"./vendor.3a57b34c.js";const r=t({name:"EditorPage",componentName:"ManageEditorPage",components:{Editor:t(e)},setup:()=>({content:n("")}),render(){return o(a,null,[o(e,{modelValue:this.content,"onUpdate:modelValue":e=>this.content=e},null)])}});export default r;
